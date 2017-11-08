@@ -3,7 +3,7 @@ MAINTAINER Shawn Mix, @1activegeek
 
 # global environment Settings
 ENV \
-PHOENIX_TOKEN="6016-288-281-3016b97f1f5caac75cde9944b9eebdcb63f91f4bac2f354666812519d95fcea4" \
+PHOENIX_TOKEN="" \
 PHOENIX_DOWNLOAD="https://downloads.druva.com/downloads/Phoenix/Linux/druva-phoenix-client-4.6.12-33654.amd64.deb"
 
 # update/install packages
